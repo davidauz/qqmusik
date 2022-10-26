@@ -1,0 +1,11 @@
+/smali/
+nohup*
+smali.orig
+compiled.u/
+upgrades/r/
+keystore
+original.u/
+qqmusic*.apk
+*.jobf
+*.jadx
+*.swp
